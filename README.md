@@ -16,3 +16,6 @@ Actualmente en la Version V1.7 ...
     /add_user - Añade autorización a un Usuario a usar el bot
     /kick_user - Expulsa a un Usuario del bot
     /getdb - Obtén la Base de Datos del bot
+    
+    # Deploy Directo (Heroku)
+[![Heroku Deploy](https://heroku.com/deploy?template=https://github.com/alexcuba2/Proxys)
