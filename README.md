@@ -18,4 +18,4 @@ Actualmente en la Version V1.7 ...
     /getdb - Obtén la Base de Datos del bot
     
     # Deploy Directo (Heroku)
-[![Heroku Deploy](https://heroku.com/deploy?template=https://github.com/alexcuba2/Proxys)
+(https://heroku.com/deploy?template=https://github.com/alexcuba2/Proxys)
